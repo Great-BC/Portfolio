@@ -1,0 +1,144 @@
+.D3 {
+   list-style: none;
+   display: flex;
+   margin-left: 950px;
+   font-size: 30px;
+   color: white;
+   margin-top: -70px;
+   position: absolute;
+   
+}
+.P1 {
+    font-size: 40px;
+    color: white;
+    margin-top: 5px;
+    margin-left: 25px;
+   
+    
+    
+}
+.P2 {
+    font-size: 60px;
+    color: black;
+    font-weight: 600;
+    margin-left: 35px;
+    margin-top: 60px; 
+    
+}
+.D4 {
+    margin-left: 900px;
+    margin-top: 90px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: absolute;
+    
+
+}
+.D5 {
+    width: 250px;
+    height: 250px;
+    border: 10px black; 
+    border-style: double;
+    border-radius: 150px;
+    position: absolute;
+}
+img {
+    height: 250px;
+    width: 250px;
+    border-radius: 150px;
+    position: relative;
+}
+.link {
+    text-decoration: none;
+    color: white;
+}
+
+.NavItem1 {
+    height: 40px;
+    width: 120px;
+    text-align: center;
+    padding-top: 5px;
+}
+.NavItem2 {
+    height: 40px;
+    width: 120px;
+    text-align: center;
+    padding-top: 5px;
+}
+.NavItem3 {
+    height: 40px;
+    width: 120px;
+    text-align: center;
+    padding-top: 5px;
+    
+}
+.NavItem1:hover {
+    background-color: rgba(20, 20, 20, 0.51);
+    height: 60px;
+    margin-top: -28px;
+    padding-top: 33px;
+
+}
+.NavItem2:hover {
+    background-color: rgba(20, 20, 20, 0.51);
+    height: 60px;
+    margin-top: -28px;
+    padding-top: 33px;
+
+}
+.NavItem3:hover {
+    background-color: rgba(20, 20, 20, 0.51);
+    height: 60px;
+    margin-top: -28px;
+    padding-top: 33px; 
+
+}
+ul {
+    margin-left: 65px;
+    font-size: 30px;
+    margin-top: 50px;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+    list-style: none;
+    line-height: 55px;
+
+}
+ul:hover {
+font-size: 40px;
+font-family: 'Courier New', Courier, monospace;
+list-style: circle;
+
+}
+.D6 {
+    width: 70px;
+    height: 70px;
+    border: 2px solid black;
+    margin-left: 25px;
+    margin-top: -90px;  
+    display: flex;
+    justify-content: center;
+    padding-right: 30px;
+    border-radius: 25px;
+    padding-top: 15px;
+   position: absolute;
+    
+}
+.D6:hover {
+    width: 1300px;
+    margin-top: -90px;
+    display: flex;
+    justify-content: left;
+    
+}
+.D8 {
+    position: absolute;
+    
+    width: 700px;
+}
+.D7 {
+    margin-top: 100px;
+}
+    
